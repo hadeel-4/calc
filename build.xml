@@ -7,6 +7,8 @@
 
 <property location="./target" name="result.dir"/>
 
+	
+	
 <property location="${result.dir}/classes" name="result.javaclasses.dir"/>
 
 <property location="${result.dir}/testclasses" name="result.testclasses.dir"/>
