@@ -2,18 +2,11 @@ package cal;
 
 
 
-import static org.junit.jupiter.api.Assertions.*;
-import org.junit.*;
-
-
-
-
-import org.junit.jupiter.api.Test;
-import java.util.*;
 import static org.junit.Assert.*;
-import org.junit.*;
-import java.lang.*;
-import java.awt.*;
+
+import org.junit.Assert;
+import org.junit.Test;
+
 class caltest {
 
 	
@@ -34,7 +27,7 @@ class caltest {
 		
 		
 		
-
+	
 	@Test
 	public void testSum_BothNumbersArePositive_ShouldReturnPositiveNumber() {
 		// Arrange

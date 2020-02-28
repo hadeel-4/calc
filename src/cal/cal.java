@@ -1,6 +1,8 @@
 package cal;
 
 
+import java.lang.*;
+
 
 public class cal {
 	

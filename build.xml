@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <project default="compile">
 
-<property location="C:\cal\src\cal\cal.java" name="src.java.dir"/>
+<property location="./src/cal" name="src.java.dir"/>
 
 <property location="C:\cal\src\cal\testc.java" name="src.test.dir"/>
 
